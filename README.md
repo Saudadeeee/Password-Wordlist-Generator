@@ -52,11 +52,11 @@ Enter the output file name:
 
 The program will generate the wordlist and save it to the specified file.
 
-Customization
+## Customization
 Password Length: Adjust the code to change the minimum length requirement for the passwords.
 Special Character Inclusion: Modify the special character list to match the specific requirements of your tests.
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
