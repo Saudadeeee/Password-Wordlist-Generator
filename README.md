@@ -27,13 +27,13 @@ bash
 g++ -std=c++17 -o wordlist_generator main.cpp
 Run the program:
 
-bash
+
 
 ./wordlist_generator
 Usage
 Run the executable:
 
-bash
+
 
 ./wordlist_generator
 Provide input:
