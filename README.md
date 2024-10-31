@@ -18,13 +18,13 @@ The **Password Wordlist Generator** is a C++ application that creates detailed w
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone <>
    cd password-wordlist-generator
 Compile the code:
 
 bash
 
-g++ -std=c++17 -o wordlist_generator main.cpp
+g++ -o wordlist_generator main.cpp
 Run the program:
 
 
