@@ -18,7 +18,7 @@ The **Password Wordlist Generator** is a C++ application that creates detailed w
 1. **Clone the repository:**
 
    ```bash
-   git clone <>
+   git clone <https://github.com/Saudadeeee/Password-Wordlist-Generator>
    cd password-wordlist-generator
 Compile the code:
 
